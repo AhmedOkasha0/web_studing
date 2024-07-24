@@ -1,0 +1,31 @@
+/* target All Paragraphs */
+
+p{
+    color: red;
+    font-size: 50 ;
+    font-weight: 700;
+
+}
+.special{
+    color: blue;
+    /* font-size: 50; */
+    background-image: "../images/wallpaperflare.com_wallpaper.jpg";
+}
+div{
+    /*
+    top
+    right
+    bottom
+    left
+    padding direction
+    */
+    padding: 100px 100px 100px 100px;
+    color: yellow;
+    background-image: url("../images/wallpaperflare.com_wallpaper.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    /* background-position: 100px 200px; */
+    background-size: 50% 50%;
+    border-width: 2px;
+    border-color: red;
+}
