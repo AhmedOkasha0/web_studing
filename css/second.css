@@ -1,0 +1,16 @@
+div {
+  background-color: grey;
+  /* padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%; */
+  padding: 5%;
+   /*
+  in this padding when i gave this one value it`s will be in the all sides right left top and bottom
+  */
+  margin-left: 20%;
+  margin-right: 20%;
+  border-width: 10px;
+  border-color: red;
+  border-style: solid;
+}
